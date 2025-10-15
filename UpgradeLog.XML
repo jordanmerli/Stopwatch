@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Crono">
+</Property><Property Name="File di soluzione" Value="C:\Users\Jordan\Desktop\Giada &amp; Jordan\Nanoteck™\Progetti\Crono\Crono.sln">
+</Property><Property Name="Date" Value="sabato 18 febbraio 2012">
+</Property><Property Name="Time" Value="09:54">
+</Property></Properties><Event ErrorLevel="0" Project="Crono" Source="Crono\Crono.vbproj" Description="Conversione progetto completata">
+</Event><Event ErrorLevel="3" Project="Crono" Source="Crono\Crono.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Crono.sln" Description="Soluzione convertita correttamente">
+</Event><Event ErrorLevel="3" Project="" Source="Crono.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Crono" Source="Crono\Crono.vbproj" Description="Analisi completa: aggiornamento non necessario per i file di progetto.">
+</Event></UpgradeLog>

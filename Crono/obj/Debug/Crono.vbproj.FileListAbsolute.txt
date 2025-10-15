@@ -1,0 +1,75 @@
+C:\Users\Jordan\AppData\Local\Temporary Projects\Crono\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jordan\AppData\Local\Temporary Projects\Crono\obj\Debug\Crono.Form1.resources
+C:\Users\Jordan\AppData\Local\Temporary Projects\Crono\obj\Debug\Crono.Resources.resources
+C:\Users\Jordan\AppData\Local\Temporary Projects\Crono\obj\Debug\Crono.vbproj.GenerateResource.Cache
+C:\Users\Jordan\AppData\Local\Temporary Projects\Crono\bin\Debug\Crono.exe
+C:\Users\Jordan\AppData\Local\Temporary Projects\Crono\bin\Debug\Crono.pdb
+C:\Users\Jordan\AppData\Local\Temporary Projects\Crono\bin\Debug\Crono.xml
+C:\Users\Jordan\AppData\Local\Temporary Projects\Crono\obj\Debug\Crono.exe
+C:\Users\Jordan\AppData\Local\Temporary Projects\Crono\obj\Debug\Crono.xml
+C:\Users\Jordan\AppData\Local\Temporary Projects\Crono\obj\Debug\Crono.pdb
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Crono\Crono\obj\Debug\Crono.exe
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Crono\Crono\obj\Debug\Crono.xml
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Crono\Crono\obj\Debug\Crono.pdb
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Crono\Crono\bin\Debug\Crono.exe
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Crono\Crono\bin\Debug\Crono.pdb
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Crono\Crono\bin\Debug\Crono.xml
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Crono\Crono\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Crono\Crono\obj\Debug\Crono.Form1.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Crono\Crono\obj\Debug\Crono.Resources.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Crono\Crono\obj\Debug\Crono.vbproj.GenerateResource.Cache
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Crono\Crono\obj\Debug\Crono.Form2.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Crono\Crono\obj\Debug\Crono.exe
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Crono\Crono\obj\Debug\Crono.xml
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Crono\Crono\obj\Debug\Crono.pdb
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Crono\Crono\bin\Debug\Crono.exe
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Crono\Crono\bin\Debug\Crono.pdb
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Crono\Crono\bin\Debug\Crono.xml
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Crono\Crono\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Crono\Crono\obj\Debug\Crono.Form1.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Crono\Crono\obj\Debug\Crono.Form2.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Crono\Crono\obj\Debug\Crono.Resources.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Crono\Crono\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Crono\Crono\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Stopwatch\Stopwatch\Crono\obj\Debug\Crono.exe
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Stopwatch\Stopwatch\Crono\obj\Debug\Crono.xml
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Stopwatch\Stopwatch\Crono\obj\Debug\Crono.pdb
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Stopwatch\Stopwatch\Crono\bin\Debug\Crono.exe
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Stopwatch\Stopwatch\Crono\bin\Debug\Crono.pdb
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Stopwatch\Stopwatch\Crono\bin\Debug\Crono.xml
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Stopwatch\Stopwatch\Crono\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Stopwatch\Stopwatch\Crono\obj\Debug\Crono.Form1.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Stopwatch\Stopwatch\Crono\obj\Debug\Crono.Form2.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Stopwatch\Stopwatch\Crono\obj\Debug\Crono.Resources.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Stopwatch\Stopwatch\Crono\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Stopwatch\Stopwatch\Crono\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Stopwatch\Stopwatch\Crono\obj\Debug\Crono.exe
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Stopwatch\Stopwatch\Crono\obj\Debug\Crono.xml
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Stopwatch\Stopwatch\Crono\obj\Debug\Crono.pdb
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Stopwatch\Stopwatch\Crono\bin\Debug\Crono.exe
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Stopwatch\Stopwatch\Crono\bin\Debug\Crono.pdb
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Stopwatch\Stopwatch\Crono\bin\Debug\Crono.xml
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Stopwatch\Stopwatch\Crono\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Stopwatch\Stopwatch\Crono\obj\Debug\Crono.Form1.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Stopwatch\Stopwatch\Crono\obj\Debug\Crono.Form2.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Stopwatch\Stopwatch\Crono\obj\Debug\Crono.Resources.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Stopwatch\Stopwatch\Crono\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Stopwatch\Stopwatch\Crono\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\NANOTECK.NET\Stopwatch\Stopwatch\Crono\obj\Debug\Crono.exe
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\NANOTECK.NET\Stopwatch\Stopwatch\Crono\obj\Debug\Crono.xml
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\NANOTECK.NET\Stopwatch\Stopwatch\Crono\obj\Debug\Crono.pdb
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\NANOTECK.NET\Stopwatch\Stopwatch\Crono\bin\Debug\Crono.exe
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\NANOTECK.NET\Stopwatch\Stopwatch\Crono\bin\Debug\Crono.pdb
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\NANOTECK.NET\Stopwatch\Stopwatch\Crono\bin\Debug\Crono.xml
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\NANOTECK.NET\Stopwatch\Stopwatch\Crono\obj\Debug\Crono.Form1.resources
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\NANOTECK.NET\Stopwatch\Stopwatch\Crono\obj\Debug\Crono.Resources.resources
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\NANOTECK.NET\Stopwatch\Stopwatch\Crono\obj\Debug\Crono.vbproj.GenerateResource.Cache
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Stopwatch\Crono\obj\Debug\Crono.exe
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Stopwatch\Crono\obj\Debug\Crono.xml
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Stopwatch\Crono\obj\Debug\Crono.pdb
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Stopwatch\Crono\bin\Debug\Crono.exe
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Stopwatch\Crono\bin\Debug\Crono.pdb
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Stopwatch\Crono\bin\Debug\Crono.xml
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Stopwatch\Crono\obj\Debug\Crono.Form1.resources
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Stopwatch\Crono\obj\Debug\Crono.Resources.resources
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Stopwatch\Crono\obj\Debug\Crono.vbproj.GenerateResource.Cache
